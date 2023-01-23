@@ -1,4 +1,3 @@
 node (''){
-    his
-
+    sh "echo hello world"
 }
