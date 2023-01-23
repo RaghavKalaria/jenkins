@@ -1,4 +1,4 @@
 node (''){
-    sh "echo hello world 1 "
+    sh "echo hello world 2 "
     
 }
